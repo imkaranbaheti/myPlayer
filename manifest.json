@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ONLY.WAV RADIO",
+  "version": "1.0",
+  "description": "Exclusive playlist stream. One DJ, many listeners.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://raw.githubusercontent.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
